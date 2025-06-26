@@ -39,6 +39,12 @@ elif [[ "$DATASET_SPLIT" == "nmi" ]]; then
     EPOCH=0.000006
 fi
 
+echo "========================================================"
+echo "DATASET_SPLIT: $DATASET_SPLIT"
+echo "TRAIN_DATA_PATH: $TRAIN_DATA_PATH"
+echo "IMAGE_FOLDER: $IMAGE_FOLDER"
+echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
+
 #######################################################
 # Important parameter about the version of training
 #######################################################
