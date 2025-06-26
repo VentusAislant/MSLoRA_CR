@@ -169,7 +169,17 @@ Download from [Hugging Face - microsoft/llava-med-v1.5-mistral-7b](https://huggi
 
 Download `openai/clip-vit-large-patch14-336/` from [Hugging Face - OpenAI](https://huggingface.co/openai/clip-vit-large-patch14-336)
 
-## 4. Citation
+## 4. Download Our Pretrained Models
+
+You can download our pretrained models for **inference only** from Hugging Face:
+
+| Model Name                                                 | Download Link                                                |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| `finetune_lora_each-64-64_llava_med_v1.5`                  | [🤗 Data-Specific Finetune](https://huggingface.co/models/VentusAislant/MSLoRA_CR/finetune_lora_each-64-64_llava_med_v1.5) |
+| `finetune_lora_MSLoRA-CR-ORTHO-64-64_llava_med_v1.5`       | [🤗 MSLoRA-CR-ORTHO](https://huggingface.co/models/VentusAislant/MSLoRA_CR/finetune_lora_MSLoRA-CR-ORTHO-64-64_llava_med_v1.5) |
+| `finetune_lora_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5` | [🤗 MSLoRA-CR-ORTHO-6TASK](https://huggingface.co/models/VentusAislant/MSLoRA_CR/finetune_lora_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5) |
+
+## 5. Citation
 
 If you find **MSLoRA-CR** useful for your research or applications, please cite our work using the following BibTeX entry:
 
@@ -179,7 +189,7 @@ TODO
 
 ------
 
-## 5. Acknowledgements
+## 6. Acknowledgements
 
 We gratefully acknowledge the following project as the foundation of our codebase:
 
