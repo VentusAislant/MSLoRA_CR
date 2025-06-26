@@ -4,6 +4,5 @@ __pycache__/
 checkpoints*/
 data/
 pretrained_models/
-results/
 .idea/
 archive/

@@ -1,0 +1,11 @@
+Metric               Performance
+-----------------  -------------
+exact match score       64.6785
+f1 score                50.5722
+precision               52.4493
+recall                  50.9612
+bleu_score               2.13196
+bleu_score_1            46.4842
+bleu_score_2            27.4601
+bleu_score_3            10.8612
+close accuracy          89.7331

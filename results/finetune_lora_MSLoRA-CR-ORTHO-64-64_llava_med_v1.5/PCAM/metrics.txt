@@ -1,0 +1,4 @@
+Metric               Performance
+-----------------  -------------
+exact match score        93.2571
+close accuracy           93.2571

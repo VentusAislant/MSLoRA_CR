@@ -7,7 +7,7 @@ echo "Generated master port: $PORT"
 DATASET_SPLIT=$1
 DEVICES=$2
 
-EPOCH=0.000003
+EPOCH=3
 if [[ "$DATASET_SPLIT" == "pathvqa" ]]; then
     TRAIN_DATA_PATH="./data/MSLoRA_CR/PathVQA/train.json"
     IMAGE_FOLDER="./data/MSLoRA_CR/PathVQA"
@@ -20,23 +20,23 @@ elif [[ "$DATASET_SPLIT" == "derm" ]]; then
 elif [[ "$DATASET_SPLIT" == "CXP" ]]; then
     TRAIN_DATA_PATH="./data/MSLoRA_CR/CXP/train.json"
     IMAGE_FOLDER="./data/MSLoRA_CR/CXP"
-    EPOCH=0.000001
+    EPOCH=1
 elif [[ "$DATASET_SPLIT" == "HAM" ]]; then
     TRAIN_DATA_PATH="./data/MSLoRA_CR/HAM/train.json"
     IMAGE_FOLDER="./data/MSLoRA_CR/HAM"
-    EPOCH=0.000001
+    EPOCH=1
 elif [[ "$DATASET_SPLIT" == "PCAM" ]]; then
     TRAIN_DATA_PATH="./data/MSLoRA_CR/PCam/train.json"
     IMAGE_FOLDER="./data/MSLoRA_CR/PCam"
-    EPOCH=0.000001
+    EPOCH=1
 elif [[ "$DATASET_SPLIT" == "iu-x-ray" ]]; then
     TRAIN_DATA_PATH="./data/MSLoRA_CR/IU-X-Ray/train.json"
     IMAGE_FOLDER="./data/MSLoRA_CR/IU-X-Ray"
-    EPOCH=0.000006
+    EPOCH=6
 elif [[ "$DATASET_SPLIT" == "nmi" ]]; then
     TRAIN_DATA_PATH="./data/MSLoRA_CR/WSI-DX/train.json"
     IMAGE_FOLDER="./data/MSLoRA_CR/WSI-DX"
-    EPOCH=0.000006
+    EPOCH=6
 fi
 
 echo "========================================================"

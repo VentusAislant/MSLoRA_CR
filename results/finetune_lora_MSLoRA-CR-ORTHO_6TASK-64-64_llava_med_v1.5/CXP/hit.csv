@@ -1,0 +1,1117 @@
+id,question,pred,answer,answer_type,image
+0,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+1,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+2,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+3,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+4,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+5,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+6,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+7,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+9,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+10,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+12,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+13,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+14,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+15,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+17,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+18,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+19,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+20,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+21,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+22,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+23,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+24,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+25,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+26,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+27,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+28,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+29,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+30,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+31,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+33,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+34,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+35,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+36,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+37,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+38,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+39,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+40,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+41,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+42,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+43,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+44,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+45,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+46,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+47,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+48,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+49,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+50,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+51,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+52,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+53,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+54,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+55,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+56,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+57,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+58,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+59,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+60,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+61,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+62,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+63,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+64,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+65,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+66,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+67,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+68,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+69,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+70,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+71,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+72,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+73,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+74,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+75,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+76,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+77,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+78,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+79,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+80,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+82,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+83,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+84,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+85,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+86,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+87,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+88,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+89,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+90,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+91,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+92,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+93,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+94,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+95,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+96,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+97,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+98,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+100,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+101,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+102,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+104,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+105,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+106,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+107,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+108,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+109,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+110,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+112,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+113,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+114,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+115,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+116,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+117,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+118,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+119,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+120,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+121,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+122,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+123,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+124,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+125,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+127,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+128,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+129,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+130,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+131,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+132,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+133,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+134,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+135,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+136,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+137,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+138,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+139,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+140,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+142,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+143,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+144,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+146,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+147,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+148,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+149,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+150,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+151,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+152,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+153,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+154,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+155,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+156,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+157,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+158,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+159,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+160,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+161,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+162,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+163,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+164,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+165,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+166,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+167,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+168,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+169,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+170,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+171,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+172,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+173,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+174,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+175,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+176,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+177,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+178,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+179,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+180,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+181,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+183,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+185,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+186,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+187,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+188,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+189,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+190,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+191,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+192,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+193,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+194,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+195,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+196,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+197,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+198,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+199,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+200,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+201,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+202,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+203,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+204,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+205,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+206,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+207,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+208,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+209,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+210,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+212,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+213,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+214,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+215,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+216,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+217,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+218,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+219,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+220,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+221,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+222,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+223,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+224,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+225,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+226,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+227,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+228,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+229,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+230,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+231,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+232,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+233,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+234,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+235,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+236,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+237,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+238,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+239,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+240,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+241,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+242,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+243,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+244,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+245,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+246,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+247,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+248,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+249,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+250,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+251,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+252,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+253,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+254,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+255,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+256,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+257,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+258,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+259,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+260,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+261,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+262,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+263,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+264,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+265,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+266,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+267,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+268,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+269,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+270,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+271,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+272,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+273,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+274,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+275,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+277,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+278,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+279,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+280,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+281,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+282,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+283,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+284,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+285,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+286,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+287,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+288,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+290,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+291,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+292,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+293,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+294,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+295,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+296,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+297,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+298,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+299,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+300,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+301,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+302,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+303,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+304,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+305,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+306,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+307,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+308,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+309,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+310,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+311,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+312,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+313,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+314,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+315,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+316,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+317,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+318,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+319,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+320,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+321,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+322,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+323,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+324,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+325,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+326,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+327,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+328,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+329,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+330,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+331,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+332,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+333,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+334,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+335,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+336,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+337,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+338,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+339,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+340,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+341,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+342,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+343,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+344,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+346,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+347,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+348,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+349,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+350,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+351,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+352,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+354,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+355,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+357,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+358,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+359,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+360,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+361,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+362,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+363,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+364,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+365,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+366,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+367,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+368,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+370,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+371,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+372,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+373,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+374,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+375,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+376,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+377,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+378,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+379,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+380,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+382,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+384,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+385,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+386,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+388,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+389,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",pneumonia,pneumonia,CLOSED,
+390,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+391,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+392,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+393,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+394,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+395,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+396,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+397,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+398,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+399,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+400,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+402,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+403,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+404,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+405,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+406,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+407,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+408,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+410,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+411,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+412,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+413,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+414,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+415,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+416,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+417,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+418,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+419,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+420,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+422,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+424,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+425,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+426,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+428,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+429,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+430,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+433,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+435,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+436,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+437,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+438,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+439,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+440,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+441,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+442,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+444,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+445,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+446,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+447,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+448,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+449,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+451,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+452,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+453,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+455,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+456,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+457,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+458,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+459,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+460,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+461,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+464,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+465,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+466,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+468,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+469,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+470,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+471,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+472,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+473,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+475,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+476,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+477,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+478,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+479,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+480,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+481,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+482,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+484,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+485,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+486,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+487,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+489,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+491,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+492,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+493,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+494,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+495,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+497,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+498,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+499,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+500,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+501,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+502,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+503,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+504,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+506,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+509,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+510,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+511,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+512,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+514,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+515,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+516,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+517,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+518,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+519,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+520,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+522,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+523,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+524,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+525,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+526,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+527,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+529,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+530,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+531,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+532,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+533,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+534,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+535,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+536,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+537,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+541,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+542,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+543,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+544,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+545,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+546,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+547,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+548,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+551,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+552,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+554,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+555,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+556,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+557,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+558,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+560,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+561,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+563,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+564,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+565,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+567,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+568,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+569,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+570,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+571,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+573,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+574,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+575,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+576,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+577,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+578,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+579,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+580,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+581,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+582,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+583,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+584,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+585,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+586,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+587,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+588,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+589,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+591,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+592,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+593,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+595,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+596,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+597,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+598,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+600,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+602,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+603,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+604,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+605,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+606,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+607,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+608,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+609,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+611,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+613,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+614,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+615,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+616,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+619,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+620,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+621,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+622,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,
+623,"Given a chest X-ray image, determine whether the patient has a normal chest or pneumonia.
+Only output 'normal' or 'pneumonia'.",normal,normal,CLOSED,

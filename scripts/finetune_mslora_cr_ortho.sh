@@ -15,7 +15,7 @@ MODEL_NAME=$(basename "$PRETRAINED_MODEL_PATH")
 #######################################################
 DEVICES=1
 LR=2e-4
-EPOCH=0.000003
+EPOCH=3
 BATCH_SIZE=32
 GRADIENT_ACC_STEPS=1
 LORA_RANK=64
@@ -29,7 +29,7 @@ DATASET_SPILT="pathvqa"
 IMAGE_FOLDER="./data/MSLoRA_CR/PathVQA/"
 TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa/"
-EPOCH=0.000003
+EPOCH=3
 BATCH_SIZE=24
 
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
@@ -71,7 +71,7 @@ TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path1="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad/"
 
-EPOCH=0.000004
+EPOCH=4
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero1.json \
     --seed  42 --alpha 0.1 --beta 0.01 \
@@ -113,7 +113,7 @@ IMAGE_FOLDER="./data/MSLoRA_CR/Fitzpatrick/"
 TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path2="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm/"
-EPOCH=0.000004
+EPOCH=4
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero1.json \
     --seed  42 --alpha 0.1 --beta 0.01 \
@@ -157,7 +157,7 @@ TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path3="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM/"
 
-EPOCH=0.000001
+EPOCH=1
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero1.json \
     --seed  42 --alpha 0.1 --beta 0.01 \
@@ -201,7 +201,7 @@ TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path4="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP/"
 
-EPOCH=0.000001
+EPOCH=1
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero1.json \
     --seed  42 --alpha 0.1 --beta 0.01 \
@@ -244,7 +244,7 @@ IMAGE_FOLDER="./data/MSLoRA_CR/HAM/"
 TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path5="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP_HAM/"
-EPOCH=0.000001
+EPOCH=1
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero1.json \
     --seed  42 --alpha 0.1 --beta 0.01 \
@@ -283,7 +283,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
 
 # "PCAM" "CXP" "HAM" "nmi" "iu-x-ray"
 MAX_TASK=7
-EPOCH=0.000006
+EPOCH=6
 DATASET_SPILT="nmi"
 IMAGE_FOLDER="./data/MSLoRA_CR/WSI-DX/"
 TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
@@ -327,7 +327,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
 # "PCAM" "CXP" "HAM" "nmi" "iu-x-ray"
 MAX_TASK=8
 BATCH_SIZE=16
-EPOCH=0.000009
+EPOCH=9
 DATASET_SPILT="iu-x-ray"
 IMAGE_FOLDER="./data/MSLoRA_CR/IU-X-Ray/"
 TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
