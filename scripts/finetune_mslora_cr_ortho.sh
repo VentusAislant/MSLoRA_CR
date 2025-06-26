@@ -7,7 +7,7 @@ echo "Generated master port: $PORT"
 #######################################################
 # Important parameter about the version of training
 #######################################################
-TRAIN_VERSION="finetune_lora_MSLoRA-CR-ORTHO"
+TRAIN_VERSION="finetune_MSLoRA-CR-ORTHO"
 PRETRAINED_MODEL_PATH="./pretrained_models/llava_med_v1.5"
 MODEL_NAME=$(basename "$PRETRAINED_MODEL_PATH")
 #######################################################

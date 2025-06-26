@@ -4,7 +4,7 @@ export CUDA_VISIBLE_DEVICES=1
 ## Need To Set
 ###############################################
 MODEL_PATH="pretrained_models/llava_med_v1.5"
-LORA_CKP_NAME="finetune_lora_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5"
+LORA_CKP_NAME="finetune_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5"
 DATASET_SPLITS=("pathvqa" "slake-vqarad" "PCAM" "CXP" "nmi" "iu-x-ray")
 
 ###############################################
