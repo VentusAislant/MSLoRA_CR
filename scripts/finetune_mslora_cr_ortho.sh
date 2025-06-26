@@ -30,6 +30,7 @@ IMAGE_FOLDER="./data/MSLoRA_CR/PathVQA/"
 TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa/"
 EPOCH=0.000003
+BATCH_SIZE=24
 
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero3.json \
