@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+checkpoints*/
+data/
+pretrained_models/
+results/
+.idea/
+archive/
+scripts/

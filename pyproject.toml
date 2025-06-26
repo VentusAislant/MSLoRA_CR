@@ -1,0 +1,100 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mslor_cr"
+version = "1.0.0"
+description = "MSLoRA_CR: Contrastive Regularization with LoRA for Multimodal Biomedical Image Incremental Learning"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+]
+dependencies = [
+    "transformers==4.36.2",
+    "tokenizers>=0.15.0",
+    "sentencepiece==0.1.99",
+    "shortuuid",
+    "accelerate==0.21.0",
+    "peft==0.4.0",
+    "bitsandbytes",
+    "pydantic<2,>=1",
+    "markdown2[all]",
+    "protobuf",
+    "numpy==1.26.0",
+    "scikit-learn==1.5.2",
+    "gradio==3.35.2",
+    "gradio_client==0.2.9",
+    "requests",
+    "httpx==0.24.0",
+    "uvicorn",
+    "fastapi",
+    "einops==0.6.1",
+    "einops-exts==0.0.4",
+    "timm==0.9.12",
+    "tiktoken",
+    "openai==1.12.0",
+    "backoff",
+]
+
+[project.optional-dependencies]
+train = ["deepspeed==0.9.5", "ninja", "wandb"]
+eval = [
+    "azure-ai-ml",
+    "datasets",
+    "fire",
+    "opencv-python",
+    "openpyxl==3.1.2",
+    "pillow==9.4.0",
+    "python-Levenshtein",
+    "rich",
+    "streamlit==1.29.0",
+    "typer[all]",
+    "word2number",
+    "nlyk",
+    "tabulate"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/VentusAislant/MSLoRA_CR"
+"Bug Tracker" = "https://github.com/VentusAislant/MSLoRA_CR/issues"
+
+[tool.setuptools.packages.find]
+exclude = [
+    "assets*",
+    "benchmark*",
+    "docs",
+    "dist*",
+    "playground*",
+    "scripts*",
+    "tests*",
+]
+
+[tool.wheel]
+exclude = [
+    "assets*",
+    "benchmark*",
+    "docs",
+    "dist*",
+    "playground*",
+    "scripts*",
+    "tests*",
+]
+
+[tool.black]
+line-length = 120
+skip-string-normalization = true
+
+[tool.pyright]
+exclude = [
+    "**/__pycache__",
+    "playground",
+    "_results",
+    "_data",
+    "models",
+    "checkpoints",
+    "wandb",
+    "docs",
+]
