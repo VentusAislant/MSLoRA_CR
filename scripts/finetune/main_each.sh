@@ -1,6 +1,6 @@
 #!/bin/bash
 export WANDB_MODE=disabled
-source ./scripts/port_generator.sh
+source ./scripts/base/port_generator.sh
 PORT=$(generate_random_port)
 echo "Generated master port: $PORT"
 
