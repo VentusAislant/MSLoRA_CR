@@ -53,7 +53,7 @@ eval = [
     "streamlit==1.29.0",
     "typer[all]",
     "word2number",
-    "nlyk",
+    "nltk",
     "tabulate"
 ]
 
