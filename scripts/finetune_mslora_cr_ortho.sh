@@ -13,7 +13,7 @@ MODEL_NAME=$(basename "$PRETRAINED_MODEL_PATH")
 #######################################################
 # parameter about the hyper-parameters of training
 #######################################################
-DEVICES=0
+DEVICES=1
 LR=2e-4
 EPOCH=0.000003
 BATCH_SIZE=32
