@@ -24,10 +24,10 @@ LORA_ALPHA=64
 #######################################################
 # The following content does not need modification.
 #######################################################
-IMAGE_FOLDER="./data/all_med/images"
 MAX_TASK=1
 DATASET_SPILT="pathvqa"
-TRAIN_DATA_PATH="./data/annotations/train/${DATASET_SPILT}_train.json"
+IMAGE_FOLDER="./data/MSLoRA_CR/PathVQA/"
+TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa/"
 EPOCH=0.000003
 
@@ -63,10 +63,10 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
     --report_to wandb
 
 
-IMAGE_FOLDER="./data/all_med/images"
 MAX_TASK=2
 DATASET_SPILT="slake-vqarad"
-TRAIN_DATA_PATH="./data/annotations/train/${DATASET_SPILT}_train.json"
+IMAGE_FOLDER="./data/MSLoRA_CR/Slake-VQARad/"
+TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path1="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad/"
 
@@ -108,7 +108,8 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
 
 MAX_TASK=3
 DATASET_SPILT="derm"
-TRAIN_DATA_PATH="./data/annotations/train/${DATASET_SPILT}_train.json"
+IMAGE_FOLDER="./data/MSLoRA_CR/Fitzpatrick/"
+TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path2="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm/"
 EPOCH=0.000004
@@ -150,8 +151,8 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
 # "PCAM" "CXP" "HAM" "nmi" "iu-x-ray"
 MAX_TASK=4
 DATASET_SPILT="PCAM"
-TRAIN_DATA_PATH="./data/classification/PCam/pcam_train.json"
-IMAGE_FOLDER="./data/classification/PCam/"
+IMAGE_FOLDER="./data/MSLoRA_CR/PCam/"
+TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path3="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM/"
 
@@ -194,8 +195,8 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
 # "PCAM" "CXP" "HAM" "nmi" "iu-x-ray"
 MAX_TASK=5
 DATASET_SPILT="CXP"
-TRAIN_DATA_PATH="./data/classification/chest_xray_pneumonia/chest_xray_pneumonia_train.json"
-IMAGE_FOLDER="./data/classification/chest_xray_pneumonia/"
+IMAGE_FOLDER="./data/MSLoRA_CR/CXP/"
+TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path4="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP/"
 
@@ -238,8 +239,8 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
 MAX_TASK=6
 DATASET_SPILT="HAM"
 BATCH_SIZE=16
-TRAIN_DATA_PATH="./data/classification/HAM10000/ham10000_train.json"
-IMAGE_FOLDER="./data/classification/HAM10000"
+IMAGE_FOLDER="./data/MSLoRA_CR/HAM/"
+TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path5="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP_HAM/"
 EPOCH=0.000001
@@ -283,8 +284,8 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
 MAX_TASK=7
 EPOCH=0.000006
 DATASET_SPILT="nmi"
-TRAIN_DATA_PATH="./data/report_gen/NMI/nmi_report_gen_train.json"
-IMAGE_FOLDER="./data/report_gen/NMI/"
+IMAGE_FOLDER="./data/MSLoRA_CR/WSI-DX/"
+TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path6="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP_HAM/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP_HAM_nmi/"
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
@@ -327,8 +328,8 @@ MAX_TASK=8
 BATCH_SIZE=16
 EPOCH=0.000009
 DATASET_SPILT="iu-x-ray"
-TRAIN_DATA_PATH="./data/report_gen/IU-X-RAY/iu-x-ray_report_gen_train_combined.json"
-IMAGE_FOLDER="./data/report_gen/IU-X-RAY/"
+IMAGE_FOLDER="./data/MSLoRA_CR/IU-X-Ray/"
+TRAIN_DATA_PATH="${IMAGE_FOLDER}/train.json"
 pretrain_lora_path7="checkpoints/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP_HAM_nmi/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_derm_PCAM_CXP_HAM_nmi_iu-x-ray/"
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
