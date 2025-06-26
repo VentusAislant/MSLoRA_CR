@@ -16,7 +16,7 @@ MODEL_NAME=$(basename "$PRETRAINED_MODEL_PATH")
 #######################################################
 DEVICES=0
 LR=2e-4
-EPOCH=3
+EPOCH=0.000003
 BATCH_SIZE=32
 GRADIENT_ACC_STEPS=1
 LORA_RANK=64
@@ -32,7 +32,7 @@ DATASET_SPILT="pathvqa"
 TRAIN_DATA_PATH="./data/annotations/train/${DATASET_SPILT}_train.json"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa/"
 
-EPOCH=3
+EPOCH=0.000003
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero1.json \
     --model_path $PRETRAINED_MODEL_PATH \
@@ -71,7 +71,7 @@ TRAIN_DATA_PATH="./data/annotations/train/${DATASET_SPILT}_train.json"
 pretrain_lora_path1="checkpoints2/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad/"
 
-EPOCH=4
+EPOCH=0.000004
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero1.json \
     --model_path $PRETRAINED_MODEL_PATH \
@@ -114,7 +114,7 @@ IMAGE_FOLDER="./data/classification/PCam/"
 pretrain_lora_path2="checkpoints2/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_PCAM/"
 
-EPOCH=1
+EPOCH=0.000001
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero1.json \
     --model_path $PRETRAINED_MODEL_PATH \
@@ -158,7 +158,7 @@ IMAGE_FOLDER="./data/classification/chest_xray_pneumonia/"
 pretrain_lora_path3="checkpoints2/${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_PCAM/cl_lora.bin"
 OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/pathvqa_slake-vqarad_PCAM_CXP/"
 
-EPOCH=1
+EPOCH=0.000001
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero1.json \
     --model_path $PRETRAINED_MODEL_PATH \
@@ -196,7 +196,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
 
 # "PCAM" "CXP" "HAM" "nmi" "iu-x-ray"
 MAX_TASK=5
-EPOCH=6
+EPOCH=0.000006
 DATASET_SPILT="nmi"
 TRAIN_DATA_PATH="./data/report_gen/NMI/nmi_report_gen_train.json"
 IMAGE_FOLDER="./data/report_gen/NMI/"
@@ -240,7 +240,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
 # "PCAM" "CXP" "HAM" "nmi" "iu-x-ray"
 MAX_TASK=6
 BATCH_SIZE=16
-EPOCH=9
+EPOCH=0.000009
 DATASET_SPILT="iu-x-ray"
 TRAIN_DATA_PATH="./data/report_gen/IU-X-RAY/iu-x-ray_report_gen_train.json"
 IMAGE_FOLDER="./data/report_gen/IU-X-RAY/"

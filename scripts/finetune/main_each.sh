@@ -7,7 +7,7 @@ echo "Generated master port: $PORT"
 DATASET_SPILT=$1
 DEVICES=$2
 
-EPOCH=3
+EPOCH=0.000003
 # "slake" "vqarad" "pathvqa" "derm" "crc-val-he" "cbis-ddsm" "iu-x-ray" "nmi"
 if [[ "$DATASET_SPILT" == "slake" || "$DATASET_SPILT" == "vqarad" || \
       "$DATASET_SPILT" == "pathvqa" || "$DATASET_SPILT" == "derm" || "$DATASET_SPILT" == "slake-vqarad" ]]; then
@@ -16,23 +16,23 @@ if [[ "$DATASET_SPILT" == "slake" || "$DATASET_SPILT" == "vqarad" || \
 elif [[ "$DATASET_SPILT" == "CXP" ]]; then
     TRAIN_DATA_PATH="./data/classification/chest_xray_pneumonia/chest_xray_pneumonia_train.json"
     IMAGE_FOLDER="./data/classification/chest_xray_pneumonia"
-    EPOCH=1
+    EPOCH=0.000001
 elif [[ "$DATASET_SPILT" == "HAM" ]]; then
     TRAIN_DATA_PATH="./data/classification/HAM10000/ham10000_train.json"
     IMAGE_FOLDER="./data/classification/HAM10000"
-    EPOCH=1
+    EPOCH=0.000001
 elif [[ "$DATASET_SPILT" == "PCAM" ]]; then
     TRAIN_DATA_PATH="./data/classification/PCam/pcam_train.json"
     IMAGE_FOLDER="./data/classification/PCam"
-    EPOCH=1
+    EPOCH=0.000001
 elif [[ "$DATASET_SPILT" == "iu-x-ray" ]]; then
     TRAIN_DATA_PATH="./data/report_gen/IU-X-RAY/iu-x-ray_report_gen_train.json"
     IMAGE_FOLDER="./data/report_gen/IU-X-RAY/"
-    EPOCH=6
+    EPOCH=0.000006
 elif [[ "$DATASET_SPILT" == "nmi" ]]; then
     TRAIN_DATA_PATH="./data/report_gen/NMI/nmi_report_gen_train.json"
     IMAGE_FOLDER="./data/report_gen/NMI/"
-    EPOCH=6
+    EPOCH=0.000006
 fi
 
 

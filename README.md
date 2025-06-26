@@ -26,10 +26,12 @@ pip install -e .[eval]
 ```shell
 export LLAVA_MED_V1_5="/home/wind/Disks/16t/Models/Biomed/llava_med/llava_med_v1.5"
 export MSLORA_DATA="/home/wind/Disks/16t/tmp/MSLoRA_CR"
+export CLIP_PATH="/home/wind/Disks/16t/Models/CV/openai"
 
 mkdir data
 mkdir pretrained_models
 mkdir checkpoints
-ln -s $MSLORA_DATA ./data
-ln -s $LLAVA_MED_V1_5 ./pretrained_models
+ln -s $MSLORA_DATA ./data/
+ln -s $LLAVA_MED_V1_5 ./pretrained_models/
+ln -s $CLIP_PATH ./pretrained_models/
 ```
