@@ -45,7 +45,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
     --data_path $TRAIN_DATA_PATH \
     --image_folder $IMAGE_FOLDER \
     --bf16 True \
-    --output_dir ./checkpoints2/$OUTPUT_MODEL_NAME \
+    --output_dir ./checkpoints/$OUTPUT_MODEL_NAME \
     --num_train_epochs $EPOCH \
     --per_device_train_batch_size $BATCH_SIZE \
     --gradient_accumulation_steps $GRADIENT_ACC_STEPS \
@@ -88,7 +88,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
     --data_path $TRAIN_DATA_PATH \
     --image_folder $IMAGE_FOLDER \
     --bf16 True \
-    --output_dir ./checkpoints2/$OUTPUT_MODEL_NAME \
+    --output_dir ./checkpoints/$OUTPUT_MODEL_NAME \
     --num_train_epochs $EPOCH \
     --per_device_train_batch_size $BATCH_SIZE \
     --gradient_accumulation_steps $GRADIENT_ACC_STEPS \
@@ -131,7 +131,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
     --data_path $TRAIN_DATA_PATH \
     --image_folder $IMAGE_FOLDER \
     --bf16 True \
-    --output_dir ./checkpoints2/$OUTPUT_MODEL_NAME \
+    --output_dir ./checkpoints/$OUTPUT_MODEL_NAME \
     --num_train_epochs $EPOCH \
     --per_device_train_batch_size $BATCH_SIZE \
     --gradient_accumulation_steps $GRADIENT_ACC_STEPS \
@@ -175,7 +175,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
     --data_path $TRAIN_DATA_PATH \
     --image_folder $IMAGE_FOLDER \
     --bf16 True \
-    --output_dir ./checkpoints2/$OUTPUT_MODEL_NAME \
+    --output_dir ./checkpoints/$OUTPUT_MODEL_NAME \
     --num_train_epochs $EPOCH \
     --per_device_train_batch_size $BATCH_SIZE \
     --gradient_accumulation_steps $GRADIENT_ACC_STEPS \
@@ -218,7 +218,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
     --data_path $TRAIN_DATA_PATH \
     --image_folder $IMAGE_FOLDER \
     --bf16 True \
-    --output_dir ./checkpoints2/$OUTPUT_MODEL_NAME \
+    --output_dir ./checkpoints/$OUTPUT_MODEL_NAME \
     --num_train_epochs $EPOCH \
     --per_device_train_batch_size $BATCH_SIZE \
     --gradient_accumulation_steps $GRADIENT_ACC_STEPS \
@@ -262,7 +262,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
     --data_path $TRAIN_DATA_PATH \
     --image_folder $IMAGE_FOLDER \
     --bf16 True \
-    --output_dir ./checkpoints2/$OUTPUT_MODEL_NAME \
+    --output_dir ./checkpoints/$OUTPUT_MODEL_NAME \
     --num_train_epochs $EPOCH \
     --per_device_train_batch_size $BATCH_SIZE \
     --gradient_accumulation_steps $GRADIENT_ACC_STEPS \
