@@ -4,7 +4,7 @@ source ./scripts/base/port_generator.sh
 PORT=$(generate_random_port)
 echo "Generated master port: $PORT"
 
-DATASET_SPILT=$1
+DATASET_SPLIT=$1
 DEVICES=$2
 
 EPOCH=0.000003
