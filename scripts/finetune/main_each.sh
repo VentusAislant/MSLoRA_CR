@@ -67,7 +67,6 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
     --lora_alpha $LORA_ALPHA \
     --lora_dropout 0.0 \
     --max_task $MAX_TASK \
-    \
     --data_path $TRAIN_DATA_PATH \
     --image_folder $IMAGE_FOLDER \
     --bf16 True \
