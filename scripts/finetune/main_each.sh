@@ -8,39 +8,42 @@ DATASET_SPILT=$1
 DEVICES=$2
 
 EPOCH=0.000003
-# "slake" "vqarad" "pathvqa" "derm" "crc-val-he" "cbis-ddsm" "iu-x-ray" "nmi"
-if [[ "$DATASET_SPILT" == "slake" || "$DATASET_SPILT" == "vqarad" || \
-      "$DATASET_SPILT" == "pathvqa" || "$DATASET_SPILT" == "derm" || "$DATASET_SPILT" == "slake-vqarad" ]]; then
-    TRAIN_DATA_PATH="./data/annotations/train/${DATASET_SPILT}_train.json"
-    IMAGE_FOLDER="./data/all_med/images"
-elif [[ "$DATASET_SPILT" == "CXP" ]]; then
-    TRAIN_DATA_PATH="./data/classification/chest_xray_pneumonia/chest_xray_pneumonia_train.json"
-    IMAGE_FOLDER="./data/classification/chest_xray_pneumonia"
+if [[ "$DATASET_SPLIT" == "pathvqa" ]]; then
+    TRAIN_DATA_PATH="./data/MSLoRA_CR/PathVQA/train.json"
+    IMAGE_FOLDER="./data/MSLoRA_CR/PathVQA"
+elif [[ "$DATASET_SPLIT" == "slake-vqarad" ]]; then
+    TRAIN_DATA_PATH="./data/MSLoRA_CR/Slake-VQARad/train.json"
+    IMAGE_FOLDER="./data/MSLoRA_CR/Slake-VQARad"
+elif [[ "$DATASET_SPLIT" == "derm" ]]; then
+    TRAIN_DATA_PATH="./data/MSLoRA_CR/Fitzpatrick/train.json"
+    IMAGE_FOLDER="./data/MSLoRA_CR/Fitzpatrick"
+elif [[ "$DATASET_SPLIT" == "CXP" ]]; then
+    TRAIN_DATA_PATH="./data/MSLoRA_CR/CXP/train.json"
+    IMAGE_FOLDER="./data/MSLoRA_CR/CXP"
     EPOCH=0.000001
-elif [[ "$DATASET_SPILT" == "HAM" ]]; then
-    TRAIN_DATA_PATH="./data/classification/HAM10000/ham10000_train.json"
-    IMAGE_FOLDER="./data/classification/HAM10000"
+elif [[ "$DATASET_SPLIT" == "HAM" ]]; then
+    TRAIN_DATA_PATH="./data/MSLoRA_CR/HAM/train.json"
+    IMAGE_FOLDER="./data/MSLoRA_CR/HAM"
     EPOCH=0.000001
-elif [[ "$DATASET_SPILT" == "PCAM" ]]; then
-    TRAIN_DATA_PATH="./data/classification/PCam/pcam_train.json"
-    IMAGE_FOLDER="./data/classification/PCam"
+elif [[ "$DATASET_SPLIT" == "PCAM" ]]; then
+    TRAIN_DATA_PATH="./data/MSLoRA_CR/PCam/train.json"
+    IMAGE_FOLDER="./data/MSLoRA_CR/PCam"
     EPOCH=0.000001
-elif [[ "$DATASET_SPILT" == "iu-x-ray" ]]; then
-    TRAIN_DATA_PATH="./data/report_gen/IU-X-RAY/iu-x-ray_report_gen_train.json"
-    IMAGE_FOLDER="./data/report_gen/IU-X-RAY/"
+elif [[ "$DATASET_SPLIT" == "iu-x-ray" ]]; then
+    TRAIN_DATA_PATH="./data/MSLoRA_CR/IU-X-Ray/train.json"
+    IMAGE_FOLDER="./data/MSLoRA_CR/IU-X-Ray"
     EPOCH=0.000006
-elif [[ "$DATASET_SPILT" == "nmi" ]]; then
-    TRAIN_DATA_PATH="./data/report_gen/NMI/nmi_report_gen_train.json"
-    IMAGE_FOLDER="./data/report_gen/NMI/"
+elif [[ "$DATASET_SPLIT" == "nmi" ]]; then
+    TRAIN_DATA_PATH="./data/MSLoRA_CR/WSI-DX/train.json"
+    IMAGE_FOLDER="./data/MSLoRA_CR/WSI-DX"
     EPOCH=0.000006
 fi
-
 
 #######################################################
 # Important parameter about the version of training
 #######################################################
 TRAIN_VERSION="finetune_lora_each"
-PRETRAINED_MODEL_PATH="./pretrained_models/llava_med_1_5"
+PRETRAINED_MODEL_PATH="./pretrained_models/llava_med_v1.5"
 MODEL_NAME=$(basename "$PRETRAINED_MODEL_PATH")
 #######################################################
 # parameter about the hyper-parameters of training

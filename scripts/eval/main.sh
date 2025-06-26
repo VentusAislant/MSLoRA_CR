@@ -50,6 +50,7 @@ for lora in "${PREVIOUS_LORAS[@]}"; do
 done
 
 FINAL_RESULT_DIR="${RESULT_DIR}/${MODEL_NAME}/${DATASET_SPLIT}"
+
 python llava/eval/eval_mslora_cr.py \
     --conv-mode mistral_instruct \
     --model-path $MODEL_PATH \
