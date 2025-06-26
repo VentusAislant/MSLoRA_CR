@@ -64,7 +64,7 @@ MAX_TASK=1
 #######################################################
 # The following content does not need modification.
 #######################################################
-OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/${DATASET_SPILT}"
+OUTPUT_MODEL_NAME="${TRAIN_VERSION}-${LORA_RANK}-${LORA_ALPHA}_${MODEL_NAME}/${DATASET_SPLIT}"
 deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/train.py \
     --deepspeed ./scripts/base/zero3.json \
     --model_path $PRETRAINED_MODEL_PATH \
@@ -81,7 +81,7 @@ deepspeed --include "localhost:${DEVICES}" --master_port "${PORT}" llava/train/t
     --per_device_train_batch_size $BATCH_SIZE \
     --gradient_accumulation_steps $GRADIENT_ACC_STEPS \
     --evaluation_strategy "no" \
-    --save_strategy "epoch" \
+    --save_strategy "no" \
     --save_steps 100 \
     --save_total_limit 2 \
     --learning_rate $LR \
