@@ -173,9 +173,9 @@ Download from [Hugging Face - microsoft/llava-med-v1.5-mistral-7b](https://huggi
 
 Download `openai/clip-vit-large-patch14-336/` from [Hugging Face - OpenAI](https://huggingface.co/openai/clip-vit-large-patch14-336)
 
-## 4. Download Our Pretrained Models
+## 4. Download Our Checkpoints
 
-You can download our pretrained models for **inference only** from Hugging Face:
+You can download our checkpoints for **inference only** from Hugging Face:
 
 | Model Name                                                 | Download Link                                                |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
