@@ -8,6 +8,10 @@
 - **🔥 Initial Release:** We introduce **MSLoRA-CR**, a novel framework that integrates **modality-specific LoRA** and **contrastive regularization** to tackle **multimodal biomedical image incremental learning** in large vision-language models (VLMs).
    This framework enables **scalable and efficient continual learning** across diverse medical imaging modalities.
 
+<p align="center">
+  <img src="assets/mslora_cr_overview.png" alt="MSLoRA-CR Overview" width="80%">
+</p>
+
 ------
 
 ## 2. Installation
