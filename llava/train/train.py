@@ -271,10 +271,6 @@ def train(attn_implementation=None):
         trainer.train()
     trainer.save_state()
     model.config.use_cache = True
-    if model_args.alpha is not None and model_args.alpha == -1:
-        print(model.alpha.data)
-        model.config.alpha = model.alpha.data.detach().tolist()
-        model.config.beta = model.beta.data.detach().tolist()
     trainer._save(training_args.output_dir)
 
 if __name__ == "__main__":

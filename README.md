@@ -24,9 +24,9 @@ pip install -e .[eval]
 3. Create soft link for dataset and pre-trained models
 
 ```shell
-export LLAVA_MED_V1_5="/home/wind/Disks/16t/Models/Biomed/llava_med/llava_med_v1.5"
-export MSLORA_DATA="/home/wind/Disks/16t/tmp/MSLoRA_CR"
-export CLIP_PATH="/home/wind/Disks/16t/Models/CV/openai"
+export LLAVA_MED_V1_5="path/to/llava_med_v1.5"
+export MSLORA_DATA="path/to/data/MSLoRA_CR"
+export CLIP_PATH="path/to/models/openai"
 
 mkdir data
 mkdir pretrained_models
