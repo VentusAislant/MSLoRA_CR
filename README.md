@@ -179,9 +179,9 @@ You can download our checkpoints for **inference only** from Hugging Face:
 
 | Model Name                                                 | Download Link                                                |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| `finetune_lora_each-64-64_llava_med_v1.5`                  | [🤗 Data-Specific Finetune](https://huggingface.co/models/VentusAislant/MSLoRA_CR/finetune_lora_each-64-64_llava_med_v1.5) |
-| `finetune_lora_MSLoRA-CR-ORTHO-64-64_llava_med_v1.5`       | [🤗 MSLoRA-CR-ORTHO](https://huggingface.co/models/VentusAislant/MSLoRA_CR/finetune_lora_MSLoRA-CR-ORTHO-64-64_llava_med_v1.5) |
-| `finetune_lora_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5` | [🤗 MSLoRA-CR-ORTHO-6TASK](https://huggingface.co/models/VentusAislant/MSLoRA_CR/finetune_lora_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5) |
+| `finetune_lora_each-64-64_llava_med_v1.5`                  | [🤗 Data-Specific Finetune](https://huggingface.co/VentusAislant/MSLoRA_CR/tree/main/finetune_lora_each-64-64_llava_med_v1.5) |
+| `finetune_lora_MSLoRA-CR-ORTHO-64-64_llava_med_v1.5`       | [🤗 MSLoRA-CR-ORTHO](https://huggingface.co/VentusAislant/MSLoRA_CR/tree/main/finetune_lora_MSLoRA-CR-ORTHO-64-64_llava_med_v1.5) |
+| `finetune_lora_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5` | [🤗 MSLoRA-CR-ORTHO-6TASK](https://huggingface.co/VentusAislant/MSLoRA_CR/tree/main/finetune_lora_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5) |
 
 ## 5. Citation
 
