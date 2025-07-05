@@ -2,9 +2,9 @@
 
 ## 1. Release
 
-- **📅 Last updated:** *July 4th, 2025*
-- **📢 Paper:** Accepted at  TODO
-- **📄 Paper Link:** [Contrastive Regularization with LoRA for Multimodal Biomedical Image Incremental Learning](TODO)
+- **📅 Last updated:** *July 5th, 2025*
+- **📢 Paper:** Accepted at  [ACMMM2025](https://acmmm2025.org/)
+- **📄 Paper Link:** [Contrastive Regularization with LoRA for Multimodal Biomedical Image Incremental Learning](https://openreview.net/pdf?id=TVNIE5Czk4)
 - **🔥 Initial Release:** We introduce **MSLoRA-CR**, a novel framework that integrates **modality-specific LoRA** and **contrastive regularization** to tackle **multimodal biomedical image incremental learning** in large vision-language models (VLMs).
    This framework enables **scalable and efficient continual learning** across diverse medical imaging modalities.
 
@@ -45,7 +45,7 @@ pip install -e .[train]
 pip install -e .[eval]
 ```
 
-### Step 3: Link Datasets and Pretrained Models
+### Step 3: Link Datasets and Pre-trained Models
 
 Set the following environment variables to your actual paths:
 
@@ -149,7 +149,7 @@ The `train.json` and `test.jsonl` files for each dataset can be downloaded from:
 
 ------
 
-### 3.2 Prepare Pretrained Models
+### 3.2 Prepare Pre-trained Models
 
 #### Overview
 
@@ -183,7 +183,35 @@ You can download our checkpoints for **inference only** from Hugging Face:
 | `finetune_lora_MSLoRA-CR-ORTHO-64-64_llava_med_v1.5`       | [🤗 MSLoRA-CR-ORTHO](https://huggingface.co/VentusAislant/MSLoRA_CR/tree/main/finetune_lora_MSLoRA-CR-ORTHO-64-64_llava_med_v1.5) |
 | `finetune_lora_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5` | [🤗 MSLoRA-CR-ORTHO-6TASK](https://huggingface.co/VentusAislant/MSLoRA_CR/tree/main/finetune_lora_MSLoRA-CR-ORTHO_6TASK-64-64_llava_med_v1.5) |
 
-## 5. Citation
+## 5. Training and Evaluation
+
+### 🏋️‍♀️ Training
+
+```bash
+# Train LoRA adapters separately for each task
+bash scripts/finetune_lora_each.sh
+
+# Train MSLoRA-CR-ORTHO on all 8 tasks
+bash scripts/finetune_mslora_cr_ortho.sh
+
+# Train MSLoRA-CR-ORTHO on 6 tasks
+bash scripts/finetune_mslora_cr_ortho_6task.sh
+```
+
+### 📈 Evaluation
+
+```bash
+# Evaluate individually trained LoRA adapters
+bash scripts/eval_lora_each.sh
+
+# Evaluate MSLoRA-CR-ORTHO on 8 tasks
+bash scripts/eval_mslora_cr_ortho.sh
+
+# Evaluate MSLoRA-CR-ORTHO on 6 tasks
+bash scripts/eval_mslora_cr_ortho_6task.sh
+```
+
+## 6. Citation
 
 If you find **MSLoRA-CR** useful for your research or applications, please cite our work using the following BibTeX entry:
 
@@ -193,7 +221,7 @@ TODO
 
 ------
 
-## 6. Acknowledgements
+## 7. Acknowledgements
 
 We gratefully acknowledge the following project as the foundation of our codebase:
 
