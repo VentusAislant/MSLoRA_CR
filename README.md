@@ -219,6 +219,16 @@ If you find **MSLoRA-CR** useful for your research or applications, please cite 
 TODO
 ```
 
+```plain_text
+ ACMReference Format:
+ Haojie Zhang, Yixiong Liang, Hulin Kuang, Lihui Cen, Zhe Qu, Yigang Cen,
+ Min Zeng, and Shichao Kan. 2025. Contrastive Regularization over LoRA
+ for Multimodal Biomedical Image Incremental Learning. In Proceedings of
+ the 33rd ACM International Conference on Multimedia (MM ’25), October
+ 27–31, 2025, Dublin, Ireland. ACM, New York, NY, USA, 10 pages. https:
+ //doi.org/10.1145/3746027.3754917
+ ```
+
 ------
 
 ## 7. Acknowledgements
