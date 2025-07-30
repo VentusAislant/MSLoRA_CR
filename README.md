@@ -216,18 +216,15 @@ bash scripts/eval_mslora_cr_ortho_6task.sh
 If you find **MSLoRA-CR** useful for your research or applications, please cite our work using the following BibTeX entry:
 
 ```bibtex
-TODO
+@inproceedings{zhang2025mslora,
+  title = {Contrastive Regularization over Lo{RA} for Multimodal Biomedical Image Incremental Learning},
+  author = {Haojie Zhang and Yixiong Liang and Hulin Kuang and Lihui Cen and Zhe Qu and Yigang Cen and Min Zeng and Shichao Kan},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27--31, 2025, Dublin, Ireland},
+  year = {2025},
+  doi = {10.1145/3746027.3754917},
+  url = {https://openreview.net/forum?id=TVNIE5Czk4}
+}
 ```
-
-```plain_text
- ACMReference Format:
- Haojie Zhang, Yixiong Liang, Hulin Kuang, Lihui Cen, Zhe Qu, Yigang Cen,
- Min Zeng, and Shichao Kan. 2025. Contrastive Regularization over LoRA
- for Multimodal Biomedical Image Incremental Learning. In Proceedings of
- the 33rd ACM International Conference on Multimedia (MM ’25), October
- 27–31, 2025, Dublin, Ireland. ACM, New York, NY, USA, 10 pages. https:
- //doi.org/10.1145/3746027.3754917
- ```
 
 ------
 
