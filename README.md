@@ -4,7 +4,7 @@
 
 - **📅 Last updated:** *July 5th, 2025*
 - **📢 Paper:** Accepted at  [ACMMM2025](https://acmmm2025.org/)
-- **📄 Paper Link:** [Contrastive Regularization with LoRA for Multimodal Biomedical Image Incremental Learning](https://openreview.net/pdf?id=TVNIE5Czk4)
+- **📄 Paper Link:** [Contrastive Regularization with LoRA for Multimodal Biomedical Image Incremental Learning](https://arxiv.org/abs/2508.11673)
 - **🔥 Initial Release:** We introduce **MSLoRA-CR**, a novel framework that integrates **modality-specific LoRA** and **contrastive regularization** to tackle **multimodal biomedical image incremental learning** in large vision-language models (VLMs).
    This framework enables **scalable and efficient continual learning** across diverse medical imaging modalities.
 
@@ -215,16 +215,29 @@ bash scripts/eval_mslora_cr_ortho_6task.sh
 
 If you find **MSLoRA-CR** useful for your research or applications, please cite our work using the following BibTeX entry:
 
-```bibtex
-@inproceedings{zhang2025mslora,
-  title = {Contrastive Regularization over Lo{RA} for Multimodal Biomedical Image Incremental Learning},
-  author = {Haojie Zhang and Yixiong Liang and Hulin Kuang and Lihui Cen and Zhe Qu and Yigang Cen and Min Zeng and Shichao Kan},
-  booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27--31, 2025, Dublin, Ireland},
-  year = {2025},
-  doi = {10.1145/3746027.3754917},
-  url = {https://openreview.net/forum?id=TVNIE5Czk4}
-}
-```
+- **arXiv version**
+
+  ```bibtex
+  @article{zhang2025mslora,
+    title   = {Contrastive Regularization over LoRA for Multimodal Biomedical Image Incremental Learning},
+    author  = {Zhang, Haojie and Liang, Yixiong and Kuang, Hulin and Cen, Lihui and Qu, Zhe and Cen, Yigang and Zeng, Min and Kan, Shichao},
+    journal = {arXiv preprint arXiv:2508.11673},
+    year    = {2025},
+    url     = {https://arxiv.org/abs/2508.11673}
+  }
+
+- Final ACM Multimedia version
+
+  ```bibtex
+  @inproceedings{zhang2025mslora,
+    title = {Contrastive Regularization over Lo{RA} for Multimodal Biomedical Image Incremental Learning},
+    author = {Haojie Zhang and Yixiong Liang and Hulin Kuang and Lihui Cen and Zhe Qu and Yigang Cen and Min Zeng and Shichao Kan},
+    booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27--31, 2025, Dublin, Ireland},
+    year = {2025},
+    doi = {10.1145/3746027.3754917},
+    url = {https://dl.acm.org/doi/10.1145/3746027.3754917}
+  }
+  ```
 
 ------
 
