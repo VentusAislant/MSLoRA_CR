@@ -229,13 +229,21 @@ If you find **MSLoRA-CR** useful for your research or applications, please cite 
 - Final ACM Multimedia version
 
   ```bibtex
-  @inproceedings{zhang2025mslora,
-    title = {Contrastive Regularization over Lo{RA} for Multimodal Biomedical Image Incremental Learning},
-    author = {Haojie Zhang and Yixiong Liang and Hulin Kuang and Lihui Cen and Zhe Qu and Yigang Cen and Min Zeng and Shichao Kan},
-    booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27--31, 2025, Dublin, Ireland},
-    year = {2025},
-    doi = {10.1145/3746027.3754917},
-    url = {https://dl.acm.org/doi/10.1145/3746027.3754917}
+  @inproceedings{10.1145/3746027.3754917,
+  author = {Zhang, Haojie and Liang, Yixiong and Kuang, Hulin and Cen, Lihui and Qu, Zhe and Cen, Yigang and Zeng, Min and Kan, Shichao},
+  title = {Contrastive Regularization over LoRA for Multimodal Biomedical Image Incremental Learning},
+  year = {2025},
+  isbn = {9798400720352},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3746027.3754917},
+  doi = {10.1145/3746027.3754917},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages = {7500–7509},
+  numpages = {10},
+  keywords = {biomedical image incremental learning, contrastive regularization},
+  location = {Dublin, Ireland},
+  series = {MM '25}
   }
   ```
 
